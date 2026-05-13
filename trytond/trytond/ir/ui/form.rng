@@ -936,6 +936,7 @@
           <value>relate</value>
           <value>print</value>
           <value>action</value>
+          <value>no_toolbar</value>
         </choice>
       </attribute>
     </optional>
